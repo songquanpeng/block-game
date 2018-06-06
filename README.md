@@ -1,5 +1,14 @@
 # Qt5_Based_Elimination_Block_Game
-This is a simple game using Qt5
+
+**This is a simple game using Qt5**
+
+
+How to play this game?
+-
+* Control the black block to collison the green and blue blocks, before those blocks becoming red
+* More effective movement brings more higers points
+* Press space key to exit the game
+* You cannot move the game's window
 
 Screenshots
 -
